@@ -1,11 +1,11 @@
 [package]
-name = "free_function_pipes"
-version = "1.0.0"
+name = "lo"
+version = "0.0.1"
 authors = ["jadon belezos <jjbelezos@gmail.com>"]
-description="a bunch of traits that makes composing functions together"
+description="lo provides traits that makes composing functions together simpler in Rust"
 license = "Apache-2.0"
 readme = "README.md"
-homepage = "https://github.com/warlord500/pipe_traits_rust"
+homepage = "https://github.com/yuulive/lo"
 categories = ["gui"]
 
 
